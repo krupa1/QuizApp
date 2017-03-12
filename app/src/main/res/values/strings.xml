@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question1">1.IBM is a well known computer and information technology company, what does IBM stand for?</string>
+    <string name="q1_answer1">International Business Mechanism</string>
+    <string name="q1_answer2">International Business Machines</string>
+    <string name="q1_answer3">Institutional Business Machines</string>
+    <string name="q1_answer4">International Bigdata Mechanics</string>
+    <string name="question2">who are the google co-founders?</string>
+    <string name="q2_answer1">Sergey Brin</string>
+    <string name="q2_answer2">Steve wonzaic</string>
+    <string name="q2_answer3">Larry Page</string>
+    <string name="q2_answer4">Steve jobs</string>
+    <string name="question3">Which company manufactures occulus</string>
+    <string name="q3_answer1">Microsoft</string>
+    <string name="q3_answer2">Apple</string>
+    <string name="q3_answer3">Facebook</string>
+    <string name="q3_answer4">Samsung</string>
+    <string name="question4">which is the company that launched automated shopping mall in US</string>
+    <string name="question5">Name the company that launced pixel phone recently?</string>
+    <string name="question6">Which technology is used in Pokemon Go?</string>
+    <string name="q6_answer1">Virtual Reality</string>
+    <string name="q6_answer2">Augmented Reality</string>
+    <string name="q6_answer3">Artificial Intelligence</string>
+    <string name="q6_answer4">Machine Learning</string>
+    <string name="question7">Which computer operating system is named after Finnish programmer Linus Torvalds?</string>
+    <string name="q7_answer1">Unix</string>
+    <string name="q7_answer2">Solaris</string>
+    <string name="q7_answer3">Windows</string>
+    <string name="q7_answer4">Linux</string>
+    <string name="question8">Who is largely responsible for breaking the German Enigma codes, created a test that provided a foundation for artificial intelligence?</string>
+    <string name="question9">Who developed Yahoo?</string>
+    <string name="q9_answer1">David Filo</string>
+    <string name="q9_answer2">Jeff Bezos</string>
+    <string name="q9_answer3">Jerry Yang</string>
+    <string name="q9_answer4">Vint Cerf</string>
+    <string name="question10">Which following products are developed by Apple?</string>
+    <string name="q10_answer1">iPod</string>
+    <string name="q10_answer2">iMac</string>
+    <string name="q10_answer3">iPad</string>
+    <string name="q10_answer4">iMax</string>
+
+
+</resources>
